@@ -2,13 +2,7 @@ We're Stayforge.
 
 Stayforge is a developer-first platform for access control systems.
 
-We design APIs and services that handle:
-- Card and credential issuance
-- Device authentication
-- Permission and access validation
-- Audit-ready access logs
-
-Built for teams who care about correctness and maintainability.
+**Open source** is not an add-on for us — it’s the foundation of our work.
 
 🔗 https://www.stayforge.io
 
